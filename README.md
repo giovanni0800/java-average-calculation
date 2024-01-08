@@ -4,7 +4,7 @@
 
 <h1 align="center">Returning to the origins</h1>
 
-## 📚 About
+## 📖️ About
 <p>Here was a simple average calculation program that I made to remember some steps in the Java language and warm up to the Linux environment for creating new projects and remembering some aspects of Java using Eclipse IDE.</p>
 
 <p>I used the JOptionPane lib and tested my memory with java syntax.</p>
@@ -36,11 +36,18 @@
 - [Java 22.ea.26-open across sdkman](https://sdkman.io/install)
 - [Eclipse](https://eclipseide.org/)
 
+<br />
+<hr />
+
+## 📚 Libs
+- java.util.Scanner;
+- javax.swing.JOptionPane.
+
 ```bash
 	#Clone this project
     git clone https://github.com/giovanni0800/java-calculator.git
 ```
 
-## 📖 License
+## 📔️ License
 This Project is under the MIT license. See the file LICENSE
 for more details
